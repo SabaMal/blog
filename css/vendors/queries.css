@@ -1,0 +1,354 @@
+/*BIG TABLET TO 1339PX AND BELOW*/
+
+
+@media only screen and (max-width: 1339px)
+{
+   
+    header{
+        background-size: cover;
+    }
+    
+    .ol{
+    position: absolute;
+    margin:25% 0 0 45%;
+    }
+    
+    .list a{
+        font-size: 120%;
+    }
+    
+    #cv a{
+    text-align: center;
+    padding: 10px 41px 10px 41px;
+    }
+   
+}
+/*DEVICES HAVING WIDTH  1200PX AND BELOW*/
+@media only screen and (max-width: 1200px){
+    
+    .ol{
+    position: absolute;
+    margin:25% 0 0 44%;
+    }
+}
+   
+
+/*WIDTHS FROM 1199 AND BELOW */
+
+@media only screen and (max-width: 1199px) {
+    .ol{
+    position: absolute;
+    margin:28% 0 0 38%;
+    }
+    
+    .list a{
+        font-size: 120%;
+    }
+    
+    #cv a{
+    text-align: center;
+    padding: 10px 41px 10px 41px;
+    }
+   
+    
+}
+
+/*DEVICES HAVING WIDTH 1024PX AND BELOW */
+
+@media only screen and (max-width: 1024px){
+    header{
+        background-size: 100% 100%;}
+    
+    
+    h1{
+       left: 45%; 
+    }
+    
+   .ol{
+    position: absolute;
+    margin:30% 0 0 42%;
+    }
+    
+    .list a{
+        font-size:140%;
+    }
+    
+    #cv a{
+    text-align: center;
+    padding: 10px 47px 10px 47px;
+    }
+    
+      .foot{
+        margin-left: 36% ;
+    }
+    
+    .icon-contact{
+    height:55px;
+    width:55px;
+    text-align :center;
+   }
+    
+}
+
+/*DEVICES WHICH POSSES  WIDTH 900PX AND BELOW */
+@media only screen and (max-width: 900px){
+    
+   
+     
+     .ol{
+       margin:35% 0 0 41%;   
+    }
+    
+    
+      .icon-contact{
+        padding: 10px 5px 5px 5px;
+      }
+}
+
+
+/*DEVICES HAVING WIDTH 800PX AND BELOW */
+
+@media only screen and (max-width: 800px){
+     
+     .ol{
+        margin: 42% 0 0 42% ;
+         font-size: 70%;
+    }
+    
+     #cv a{
+        padding: 10px 35px 10px 36px;
+    } 
+    
+    
+    
+      .icon-contact{
+        padding: 10px 5px 5px 5px;
+      }
+    
+    
+    
+}
+
+
+/*DEVICES HAVING WIDTH 745PX AND BELOW */
+
+@media only screen and (max-width:745px){
+    .ol{
+      margin:48% 0 0 42%;
+        font-size: 70%;
+        
+    }
+    
+    .icon-contact{
+        padding: 10px 5px 5px 5px;
+     }
+    #cv a{
+        padding: 10px 35px 10px 36px;
+    } 
+    
+    .foot{
+        margin-left: 32%;
+    }
+    
+}
+
+/*DEVICES HAVING WIDTH 650PX AND BELOW */
+@media only screen and (max-width:650px){
+    
+    .ol{
+      margin:55% 0 0 42%;
+        font-size:70%;
+        
+    }
+    
+    .icon-contact{
+        padding: 10px 5px 5px 5px;
+     }
+    #cv a{
+        padding: 10px 35px 10px 35px;
+    } 
+    
+    .foot{
+        margin-left: 32%;
+    }
+    
+}
+
+
+
+/*DEVICES HAVING WIDTH 600PX AND BELOW */
+
+@media only screen and (max-width:600px){
+    
+    
+    .starter-text{
+        font-size: 200%;
+    }
+    
+    .ol{
+        margin:50% 0 0 42%;
+        font-size:60%;
+       }
+    
+     .section-about{
+        font-size: 80%;
+      }
+    
+    .icon-contact{
+        padding: 10px 5px 5px 5px;
+     }
+    
+    #cv a{
+        padding: 10px 32px 10px 32px;
+    } 
+    
+    .foot{
+        margin-left: 32%;
+        font-size: 60%;
+    }
+    
+     .icon-contact{
+        font-size:90%;
+        border-radius: 50%;
+        height:30px;
+        width:30px;
+        padding: 4px 4px 5px 5px;
+    }
+    
+    
+}
+/*DEVICES HAVING WIDTH 550PX AND BELOW */
+
+@media only screen and (max-width:550px){
+    
+    
+    .starter-text{
+        font-size: 200%;
+        
+    }
+    .ol{
+        margin:55% 0 0 39%;
+        font-size:60%;
+    }
+    
+     .section-about{
+        font-size: 80%;
+    }
+    
+    .icon-contact{
+        padding: 10px 5px 5px 5px;
+     }
+    #cv a{
+        padding: 10px 32px 10px 32px;
+    } 
+    
+    .foot{
+        margin-left: 32%;
+        font-size: 60%;
+    }
+    
+     .icon-contact{
+        font-size:90%;
+        border-radius: 50%;
+        height:30px;
+        width:30px;
+        padding: 4px 4px 5px 5px;
+    }
+     
+    .last{
+        margin-top : 10%;
+    }
+    
+    
+}
+
+
+
+
+/* MOBILE DEVICES WITH WIDTH 500PX AND BELOW */
+
+@media only screen and (max-width: 500px){
+   .starter-text{
+        font-size:200%;
+    }
+    
+    .section-about{
+        font-size: 80%;
+    }
+    
+       .ol{
+        position: absolute;
+        margin:65% 0 0 39%;
+             font-size:50%;
+    }
+    
+     #cv a{
+        padding: 10px 28px 10px 28px;
+    } 
+    
+    .icon-contact{
+        font-size:90%;
+        border-radius: 50%;
+        height:30px;
+        width:30px;
+        padding: 4px 4px 5px 5px;
+    }
+    
+  
+
+    
+     .foot{
+         margin-left: 30% ;
+         font-size: 50%;
+    }
+}
+
+/* MOBILE DEVICES WITH WIDTH 321PX  */
+@media only screen and (max-width: 321px){
+        .starter-text{
+            position: absolute;
+            top:40%;
+            left:50%;
+            transform: translate(-50%, -50%);
+            font-size: 120%;
+            }
+    
+      .section-about{
+          font-size: 60%;
+       }
+    
+        .p{
+         margin-left: 18%;
+         margin-top: -10px;
+        line-height: 140%;
+       }
+     
+    
+    
+     .ol{
+        position: absolute;
+        margin:95% 0 0 41%;
+        font-size:40%;
+       }
+    
+        #cv a{
+           padding: 10px 25px 10px 25px;
+        } 
+    
+        .foot{
+           
+            margin-left: 20%;
+        }
+    
+        .icon-contact{
+            margin-top:5%;
+            margin-left: 10px;
+
+        }
+    
+    
+}
+   
+ 
+   
+    
